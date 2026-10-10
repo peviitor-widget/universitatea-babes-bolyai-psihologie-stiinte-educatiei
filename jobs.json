@@ -1,209 +1,5 @@
 [
   {
-    "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
-    "title": "Învățător / Educator Montessori",
-    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
-    "location": [
-      "Brașov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:18:50.732Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 95,
-    "reason": "Post pedagogic direct compatibil cu formarea în psihologie și științe ale educației."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/invatator-profesor-invatamant-prescolar-7",
-    "title": "Invatator/profesor invatamant prescolar",
-    "company": "IBIS BRITISH SCHOOL S.R.L.",
-    "location": [
-      "Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-05T16:57:39.672Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 95,
-    "reason": "Post în învățământul preșcolar/primar, compatibil cu profilul de formare."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/invatator-educator-montessori/1989871",
-    "title": "Învățător / Educator Montessori",
-    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
-    "location": [
-      "Brașov,Iași,Bucuresti,Pitești, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-02T14:34:36.259Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 95,
-    "reason": "Educator Montessori – domeniu educațional direct potrivit nivelului entry-level."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/profesor-pentru-invatamantul-prescolar-2kngve",
-    "title": "PROFESOR PENTRU INVATAMANTUL PRESCOLAR",
-    "company": "INSTGAT SRL",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:25:50.302Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 95,
-    "reason": "Profesor pentru învățământ preșcolar – post pedagogic direct compatibil cu formarea dorită."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/invatator/195/",
-    "title": "Invatator",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti,Sector 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:48:32.696Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 90,
-    "reason": "Post de învățător, direct relevant pentru domeniul educației și formării."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
-    "title": "Grădinița IQ-EST angajează educatoare!",
-    "company": "IQ MED BROKER DE ASIGURARE SRL",
-    "location": [
-      "Strada Mariuca 40, București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:17:47.746Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 90,
-    "reason": "Post de educatoare în grădiniță, direct relevant pentru specializarea psihopedagogică."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/educator-educatoare-pentru-gradinita/233/",
-    "title": "Educator/Educatoare pentru Gradinita",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:15:59.048Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 90,
-    "reason": "Post educațional pentru învățământ preșcolar, compatibil cu competențele formate."
-  },
-  {
-    "url": "https://www.anuntul.ro/anunt-angajare-gradinita-wonderland-sector-6-BJEdb6",
-    "title": "Gradinita Wonderland sector 6 angajeaza educatoare calificata pentru grupa",
-    "company": "ANUNTUL TOTAL SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:25:26.915Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 90,
-    "reason": "Post de educatoare calificată, direct în domeniul educației."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/educatoare-calificata-31",
-    "title": "Educatoare CALIFICATĂ",
-    "company": "BAMBINO EDUCATION S.R.L.",
-    "location": [
-      "Voluntari, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:24:56.768Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 90,
-    "reason": "Post pedagogic pentru grădiniță, potrivit pentru absolvent/student din domeniul psihopedagogic."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/educatoare-calificata-32",
-    "title": "Educatoare calificată",
-    "company": "SAPTE ANI SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:16:48.606Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 90,
-    "reason": "Post de educatoare calificată, strict în domeniul educației și formării."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/invatator-primar-co-teaching",
-    "title": "Profesor învățământ primar (co-teaching)",
-    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
-    "location": [
-      "Strada Maior Ion Coravu 53, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:23:27.096Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Elaborarea de activități educative"
-    ],
-    "matchPercentage": 90,
-    "reason": "Profesor învățământ primar (co-teaching) – direct relevant pentru domeniul educației."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consilier-scolar-17",
-    "title": "Consilier scolar",
-    "company": "MARK TWAIN INTERNATIONAL EDUCATION SRL",
-    "location": [
-      "Voluntari, Ilfov, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-08T15:15:22.742Z",
-    "status": "scraped",
-    "tags": [
-      "Consiliere școlară",
-      "Ascultare activă"
-    ],
-    "matchPercentage": 90,
-    "reason": "Consiliere școlară directă, folosește ascultarea activă și identificarea nevoilor socio-emoționale."
-  },
-  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3362608",
     "title": "PSIHOLOG ÎN SPECIALITATEA PSIHOLOGIE EDUCATIONALA, CONSILIERE SCOLARA SI VOCATIONALA",
     "company": "ASOCIAȚIA &quot;CENTRUL DE EDUCAȚIE ȘI FORMARE CASMED&quot; SRL",
@@ -211,167 +7,48 @@
       "Bucuresti sectorul 6, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:21:47.665Z",
+    "date": "2026-10-09T15:12:03.502Z",
     "status": "scraped",
     "tags": [
-      "identificarea nevoilor",
-      "dezvoltarea motivației"
+      "consiliere școlară",
+      "orientare în carieră"
     ],
-    "matchPercentage": 90,
-    "reason": "Psiholog consiliere școlară și vocațională se potrivește direct domeniului și nivelului."
+    "matchPercentage": 92,
+    "reason": "Psihologie educațională și consiliere școlară/vocațională se potrivește direct cu specializarea ta."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/psiholog-scolar-11",
-    "title": "Psiholog școlar",
-    "company": "AUTO LUGOJANA SA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3408974",
+    "title": "PSIHOLOG IN SPECIALITATEA CONSILIERE PSIHOLOGICA",
+    "company": "TOTAL INFO BUSINESS SRL",
     "location": [
-      "Strada Ilioara 16, București, Romania"
+      "Municipiul Campia Turzii, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:14:20.058Z",
+    "date": "2026-10-09T15:26:00.877Z",
     "status": "scraped",
     "tags": [
-      "Psihologie educațională",
-      "Empatie"
-    ],
-    "matchPercentage": 88,
-    "reason": "Psiholog școlar, rol direct pe dezvoltare socio-emoțională și sprijin educațional."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/cadru-didactic-pentru-after-school",
-    "title": "Cadru didactic pentru after school",
-    "company": "BRAINS CONSULTING SRL",
-    "location": [
-      "Cernavoda, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:21:39.031Z",
-    "status": "scraped",
-    "tags": [
-      "activități educative",
-      "motivația învățării"
-    ],
-    "matchPercentage": 85,
-    "reason": "Post didactic în after school, folosește direct competențe de predare, comunicare cu elevi și dezvoltare socio-emoțională la nivel entry."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/invatatoare-educatoare-after-school-5",
-    "title": "Invatatoare, Educatoare after school",
-    "company": "LITTLE KIDS EARLY LEARNING CENTER S.R.L.",
-    "location": [
-      "Strada Murelor 35, Chisoda, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:23:29.151Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Identificarea nevoilor socio-emoționale"
-    ],
-    "matchPercentage": 85,
-    "reason": "Post educațional (învățătoare/educatoare after-school), relevant pentru competențele de specialitate."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362606",
-    "title": "PSIHOLOG ÎN SPECIALITATEA CONSILIERE PSIHOLOGICA",
-    "company": "ASOCIAȚIA &quot;CENTRUL DE EDUCAȚIE ȘI FORMARE CASMED&quot; SRL",
-    "location": [
-      "Bucuresti sectorul 6, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:21:47.665Z",
-    "status": "scraped",
-    "tags": [
-      "ascultare activă",
+      "consiliere",
       "empatie"
     ],
-    "matchPercentage": 82,
-    "reason": "Psiholog cu specializare consiliere psihologică, nivel de entry/master, potrivit pentru competențele de consiliere."
+    "matchPercentage": 88,
+    "reason": "Psiholog în consiliere psihologică, fără experiență cerută, folosește direct competențele de consiliere și empatie."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
-    "title": "Asistent invatator",
-    "company": "IOANID SRL",
-    "location": [
-      "Strada Nicolae Iorga 21, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:08:10.629Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicarea cu adolescenții",
-      "Managementul clasei"
-    ],
-    "matchPercentage": 80,
-    "reason": "Asistent învățător se potrivește parțial cu competențele de sprijin educațional."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/ajutor-educatoare-15",
-    "title": "Ajutor Educatoare",
-    "company": "WORLD KIDS GARDEN S.R.L.",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270188/Centrul-de-Meditatii-si-Dezvoltare-Personala/Căutăm-profesori-debutanți-sau-cu-experiență",
+    "title": "Căutăm profesori debutanți sau cu experiență",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
     "location": [
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:23:50.664Z",
+    "date": "2026-10-09T15:26:48.881Z",
     "status": "scraped",
     "tags": [
-      "Comunicarea cu adolescenții",
-      "Identificarea nevoilor socio-emoționale"
+      "activități educative",
+      "motivația pentru învățare"
     ],
-    "matchPercentage": 80,
-    "reason": "Ajutor educatoare – rol educațional, dar mai axat pe sprijin decât pe sarcini pedagogice complete."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362605",
-    "title": "PSIHOLOG ÎN SPECIALITATEA PSIHOPEDAGOGIE SPECIALA",
-    "company": "ASOCIAȚIA &quot;CENTRUL DE EDUCAȚIE ȘI FORMARE CASMED&quot; SRL",
-    "location": [
-      "Bucuresti sectorul 6, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:21:47.665Z",
-    "status": "scraped",
-    "tags": [
-      "identificarea nevoilor",
-      "empatie"
-    ],
-    "matchPercentage": 80,
-    "reason": "Psihopedagogie specială se potrivește direct educației și dezvoltării socio-emoționale."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3393756",
-    "title": "ORGANIZATOR/CONCEPTOR/CONSULTANT FORMARE",
-    "company": "INFOSYS BPM LIMITED - BENGALURU - SUCURSALA BUCURESTI",
-    "location": [
-      "Bucuresti sectorul 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:56:51.843Z",
-    "status": "scraped",
-    "tags": [
-      "elaborarea de activități",
-      "comunicare asertivă"
-    ],
-    "matchPercentage": 80,
-    "reason": "Consultant formare sub 3 ani experiență, domeniu direct de formare a cadrelor didactice."
-  },
-  {
-    "url": "https://www.leohr.ro/jobs/pedagog-scolar-pentru-after-school/133/",
-    "title": "Pedagog scolar pentru After School",
-    "company": "LEOHR S.R.L.",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T14:48:32.696Z",
-    "status": "scraped",
-    "tags": [
-      "Activități educative",
-      "Conectare socială"
-    ],
-    "matchPercentage": 78,
-    "reason": "Pedagog/after-school pe activități educative și dezvoltare socio-emoțională a copiilor."
+    "matchPercentage": 84,
+    "reason": "Profesor debutant într-un centru de dezvoltare personală folosește direct elaborarea de activități educative și facilitarea învățării."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-e-learning-formare-profesionala",
@@ -384,11 +61,96 @@
     "date": "2026-10-07T15:18:14.247Z",
     "status": "scraped",
     "tags": [
-      "elaborarea de activități",
-      "dezvoltarea motivației"
+      "elaborare activități educative",
+      "facilitarea învățării"
+    ],
+    "matchPercentage": 80,
+    "reason": "E-Learning și formare profesională presupune elaborarea de activități educative și facilitarea învățării."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362605",
+    "title": "PSIHOLOG ÎN SPECIALITATEA PSIHOPEDAGOGIE SPECIALA",
+    "company": "ASOCIAȚIA &quot;CENTRUL DE EDUCAȚIE ȘI FORMARE CASMED&quot; SRL",
+    "location": [
+      "Bucuresti sectorul 6, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:12:03.502Z",
+    "status": "scraped",
+    "tags": [
+      "nevoi socio-emoționale",
+      "dezvoltare socio-emoțională"
     ],
     "matchPercentage": 78,
-    "reason": "Specialist e-learning și formare profesională, domeniu direct de educație și formare, nivel potrivit."
+    "reason": "Psihopedagogia specială folosește identificarea nevoilor și dezvoltarea socio-emoțională în context educațional."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
+    "title": "Învățător / Educator Montessori",
+    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
+    "location": [
+      "Brașov, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:09:51.960Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "activități educative"
+    ],
+    "matchPercentage": 72,
+    "reason": "Rol educațional în învățământ primar/preșcolar Montessori care folosește managementul clasei și elaborarea de activități educative."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/invatator-profesor-invatamant-prescolar-7",
+    "title": "Invatator/profesor invatamant prescolar",
+    "company": "IBIS BRITISH SCHOOL S.R.L.",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T16:57:39.672Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "dezvoltare socio-emoțională"
+    ],
+    "matchPercentage": 72,
+    "reason": "Învățător/profesor preșcolar - activitate didactică directă în educație timpurie."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/invatator-educator-montessori/1989871",
+    "title": "Învățător / Educator Montessori",
+    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
+    "location": [
+      "Brașov,Iași,Bucuresti,Pitești, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-02T14:34:36.259Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "activități educative"
+    ],
+    "matchPercentage": 72,
+    "reason": "Același rol educațional Montessori în mai multe orașe, potrivit profilului didactic."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362606",
+    "title": "PSIHOLOG ÎN SPECIALITATEA CONSILIERE PSIHOLOGICA",
+    "company": "ASOCIAȚIA &quot;CENTRUL DE EDUCAȚIE ȘI FORMARE CASMED&quot; SRL",
+    "location": [
+      "Bucuresti sectorul 6, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:12:03.502Z",
+    "status": "scraped",
+    "tags": [
+      "ascultare activă",
+      "empatie"
+    ],
+    "matchPercentage": 72,
+    "reason": "Consiliere psihologică se bazează pe ascultare activă și empatie, nivel entry-level cu master."
   },
   {
     "url": "https://www.anuntul.ro/anunt-angajare-asistent-a-invatator-B6DvN3",
@@ -398,65 +160,150 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:51:34.354Z",
+    "date": "2026-10-09T15:05:48.581Z",
     "status": "scraped",
     "tags": [
-      "Comunicarea cu adolescenții",
-      "Managementul clasei"
-    ],
-    "matchPercentage": 75,
-    "reason": "Post de asistent învățător, dar informațiile sunt prea sumare pentru a confirma sarcinile specifice."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/educatoare-profesor-limba-germana-after-school-4",
-    "title": "Educatoare/Profesor limba germană After School",
-    "company": "GRADINITA MELBA SRL",
-    "location": [
-      "Strada Paris 57, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:27:19.482Z",
-    "status": "scraped",
-    "tags": [
-      "Comunicarea cu adolescenții",
-      "Managementul clasei"
+      "activități educative",
+      "managementul clasei"
     ],
     "matchPercentage": 70,
-    "reason": "Domeniu educațional, dar sarcina principală vizează predarea limbii germane, nu explicit competențele socio-emoționale."
+    "reason": "Asistent învățător, sprijin didactic direct în domeniul educației, nivel entry-level."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/educatoare-profesor-limba-germana-14",
-    "title": "Educatoare/ profesor/ limba germana",
-    "company": "DAICHENDT INGRID GABRIELA &quot;GRADINITA GERMANA&quot; PF",
+    "url": "https://www.leohr.ro/jobs/invatator/195/",
+    "title": "Invatator",
+    "company": "LEOHR S.R.L.",
     "location": [
-      "Str.Dristorului nr.67 sector 3, Bucuresti, Municipiul Bucuresti, Romania"
+      "Bucuresti,Sector 1, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:19:30.953Z",
+    "date": "2026-10-09T15:01:51.445Z",
     "status": "scraped",
     "tags": [
-      "Comunicarea cu adolescenții",
-      "Managementul clasei"
+      "managementul clasei",
+      "activități educative"
     ],
     "matchPercentage": 70,
-    "reason": "Rol educațional mixt, dar accent pe predarea limbii germane, relevanță parțială față de competențele psihopedagogice."
+    "reason": "Post de învățător în domeniul educației, potrivit competențelor didactice."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/angajam-profesor-de-limba-romana-si-de-matematica",
-    "title": "ANGAJĂM PROFESOR DE LIMBA ROMÂNĂ SI DE MATEMATICĂ",
-    "company": "TRAINING &amp; TEACHING GROUP SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
+    "title": "Asistent invatator",
+    "company": "IOANID SRL",
     "location": [
-      "MUNICIPIUL BUCURESTI, SECTOR 4, STR. GARNITEI, NR. 7c., Romania"
+      "Strada Nicolae Iorga 21, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:25:36.740Z",
+    "date": "2026-10-09T15:01:01.333Z",
     "status": "scraped",
     "tags": [
-      "Managementul clasei",
-      "Comunicarea cu adolescenții"
+      "activități educative",
+      "managementul clasei"
     ],
     "matchPercentage": 70,
-    "reason": "Post didactic, dar focalizat pe predarea disciplinelor (română/matematică), nu pe aspectele socio-emoționale specifice."
+    "reason": "Asistent învățător, rol educațional de nivel începător în domeniul tău."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/educatoare-calificata-32",
+    "title": "Educatoare calificată",
+    "company": "SAPTE ANI SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:19:46.749Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "dezvoltare socio-emoțională"
+    ],
+    "matchPercentage": 70,
+    "reason": "Educatoare calificată cu activități educative și comunicare cu părinții, domeniu relevant."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/invatatoare-educatoare-after-school-5",
+    "title": "Invatatoare, Educatoare after school",
+    "company": "LITTLE KIDS EARLY LEARNING CENTER S.R.L.",
+    "location": [
+      "Strada Murelor 35, Chisoda, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:16:47.206Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "activități educative"
+    ],
+    "matchPercentage": 70,
+    "reason": "Învățătoare/educatoare after school, activitate educativă directă cu copii."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3392679",
+    "title": "EDUCATOARE",
+    "company": "KRONSTEF SRL",
+    "location": [
+      "Tulcea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:20:20.490Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "managementul clasei"
+    ],
+    "matchPercentage": 68,
+    "reason": "Educatoare fără experiență cerută, rol de bază în educația preșcolară."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/educatoare-bucuresti-sector-2-6",
+    "title": "Educatoare București Sector 2",
+    "company": "PRIETENII LUI NOAH S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:17:15.851Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "managementul clasei"
+    ],
+    "matchPercentage": 68,
+    "reason": "Post de educatoare în educație preșcolară, potrivit competențelor didactice."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3392530",
+    "title": "EDUCATOARE",
+    "company": "GRĂDINIŢA CU PROGRAM PRELUNGIT ŞI SEMI-INTERNAT PANDA SRL",
+    "location": [
+      "Tulcea, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:02:50.393Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "managementul clasei"
+    ],
+    "matchPercentage": 68,
+    "reason": "Educatoare fără experiență cerută, rol de bază în educația preșcolară."
+  },
+  {
+    "url": "https://www.leohr.ro/jobs/educator-educatoare-pentru-gradinita/233/",
+    "title": "Educator/Educatoare pentru Gradinita",
+    "company": "LEOHR S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:15:59.048Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "managementul clasei"
+    ],
+    "matchPercentage": 68,
+    "reason": "Educator/educatoare pentru grădiniță, rol educațional potrivit profilului."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3362607",
@@ -466,14 +313,99 @@
       "Bucuresti sectorul 6, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:21:47.665Z",
+    "date": "2026-10-09T15:12:03.502Z",
     "status": "scraped",
     "tags": [
-      "auto-reglare emoțională",
-      "empatie"
+      "consiliere",
+      "auto-reglare emoțională"
     ],
-    "matchPercentage": 70,
-    "reason": "Psiholog psihoterapie, rol de entry în zona dezvoltării socio-emoționale, parțial aliniat profilului."
+    "matchPercentage": 66,
+    "reason": "Psihoterapia folosește competențe de consiliere și auto-reglare, dar e mai puțin legată de educație."
+  },
+  {
+    "url": "https://multijobs.ro/job/educatoare/6373",
+    "title": "EDUCATOARE",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Targu Jiu, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T14:59:37.700Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "managementul clasei"
+    ],
+    "matchPercentage": 65,
+    "reason": "Post de educatoare în educație preșcolară, domeniu relevant."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/ajutor-educatoare-15",
+    "title": "Ajutor Educatoare",
+    "company": "WORLD KIDS GARDEN S.R.L.",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:23:50.664Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "dezvoltare socio-emoțională"
+    ],
+    "matchPercentage": 65,
+    "reason": "Ajutor educatoare, rol de sprijin educațional de nivel începător."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
+    "title": "Grădinița IQ-EST angajează educatoare!",
+    "company": "IQ MED BROKER DE ASIGURARE SRL",
+    "location": [
+      "Strada Mariuca 40, București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:17:47.746Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "managementul clasei"
+    ],
+    "matchPercentage": 65,
+    "reason": "Educatoare la grădiniță, activitate didactică directă în domeniul tău."
+  },
+  {
+    "url": "https://multijobs.ro/job/angajam-educatoare-cu-experienta/4461",
+    "title": "Angajăm Educatoare cu Experiență",
+    "company": "DIAMONDS KIDS AND FUN S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T14:59:47.735Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "managementul clasei"
+    ],
+    "matchPercentage": 64,
+    "reason": "Educatoare în domeniul educației, dar anunțul cere experiență."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/educatoare-profesor-limba-germana-after-school-4",
+    "title": "Educatoare/Profesor limba germană After School",
+    "company": "GRADINITA MELBA SRL",
+    "location": [
+      "Strada Paris 57, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:08:01.228Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "managementul clasei"
+    ],
+    "matchPercentage": 60,
+    "reason": "Rol educațional after school, dar cere predare în limba germană, competență care nu este în profilul tău."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3362604",
@@ -483,13 +415,13 @@
       "Bucuresti sectorul 6, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:21:47.665Z",
+    "date": "2026-10-09T15:12:03.502Z",
     "status": "scraped",
     "tags": [
-      "auto-reglare emoțională",
+      "evaluare psihologică",
       "empatie"
     ],
-    "matchPercentage": 62,
-    "reason": "Psiholog clinică, entry-level, dar parțial aliniat profilului educațional."
+    "matchPercentage": 60,
+    "reason": "Psihologie clinică e tangențial relevantă, dar orientată spre patologie, nu spre educație."
   }
 ]
