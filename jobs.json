@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
+    "title": "Grădinița IQ-EST angajează educatoare!",
+    "company": "IQ MED BROKER DE ASIGURARE SRL",
+    "location": [
+      "Strada Mariuca 40",
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:32.991Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "activități educative"
+    ],
+    "matchPercentage": 90,
+    "reason": "Poziția de educatoare în grădiniță se potrivește direct cu domeniul educației și formării."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
+    "title": "Asistent invatator",
+    "company": "IOANID SRL",
+    "location": [
+      "Strada Nicolae Iorga 21",
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:43.457Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare",
+      "activități educative"
+    ],
+    "matchPercentage": 85,
+    "reason": "Poziția de asistent învățător se încadrează direct în domeniul educației și poate utiliza competențele de specialitate."
+  }
+]
