@@ -1,22 +1,93 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
-    "title": "Grădinița IQ-EST angajează educatoare!",
-    "company": "IQ MED BROKER DE ASIGURARE SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3414232",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRESCOLAR",
+    "company": "GRĂDINIŢA CU PROGRAM PRELUNGIT ŞI SEMI-INTERNAT PANDA SRL",
     "location": [
-      "Strada Mariuca 40",
-      "București",
+      "Municipiul timisoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:03:32.991Z",
+    "date": "2026-10-17T12:20:22.067Z",
     "status": "scraped",
     "tags": [
       "managementul clasei",
-      "activități educative"
+      "elaborarea de activități educative"
+    ],
+    "matchPercentage": 95,
+    "reason": "Predare în învățământul preșcolar, direct relevant pentru domeniul educației."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3388301",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
+    "company": "FUNDATIA PENTRU TINERET",
+    "location": [
+      "Cluj-napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:28.875Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "comunicarea cu adolescenții"
+    ],
+    "matchPercentage": 95,
+    "reason": "Predare în învățământul primar, direct relevant pentru formarea profesională."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/profesor-pentru-invatamantul-prescolar-2kngve",
+    "title": "PROFESOR PENTRU INVATAMANTUL PRESCOLAR",
+    "company": "INSTGAT SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:25.039Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "elaborarea de activități educative"
+    ],
+    "matchPercentage": 95,
+    "reason": "Profesor în învățământ preșcolar cu responsabilități educative directe."
+  },
+  {
+    "url": "https://multijobs.ro/job/asistent-social/3019",
+    "title": "asistent social",
+    "company": "ASOCIAȚIA &quot;CENTRUL DE EDUCAȚIE ȘI FORMARE CASMED&quot; SRL",
+    "location": [
+      "Fagaras",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:11.130Z",
+    "status": "scraped",
+    "tags": [
+      "Identificarea nevoilor socio-emoționale",
+      "Empatie și toleranță"
     ],
     "matchPercentage": 90,
-    "reason": "Poziția de educatoare în grădiniță se potrivește direct cu domeniul educației și formării."
+    "reason": "Postul de asistent social folosește direct identificarea nevoilor socio-emoționale și empatia, fiind foarte relevant pentru domeniu."
+  },
+  {
+    "url": "https://www.anuntul.ro/anunt-angajare-asistent-a-invatator-B6DvN3",
+    "title": "Asistent/a invatator",
+    "company": "ANUNTUL TOTAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T11:59:20.557Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul clasei",
+      "Identificarea nevoilor socio-emoționale"
+    ],
+    "matchPercentage": 85,
+    "reason": "Asistentul de învățător este post entry-level în educație, potrivit pentru un student/absolvent, folosind direct competențe de management al clasei și sprijin socio-emoțional."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
@@ -31,10 +102,119 @@
     "date": "2026-10-16T13:02:43.457Z",
     "status": "scraped",
     "tags": [
-      "comunicare",
-      "activități educative"
+      "Managementul clasei",
+      "Elaborarea de activități educative"
     ],
     "matchPercentage": 85,
-    "reason": "Poziția de asistent învățător se încadrează direct în domeniul educației și poate utiliza competențele de specialitate."
+    "reason": "Asistent învățător: rol de suport educațional entry-level, aliniat cu formarea în științe ale educației și competențele de lucru cu copiii."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3393756",
+    "title": "ORGANIZATOR/CONCEPTOR/CONSULTANT FORMARE",
+    "company": "INFOSYS BPM LIMITED - BENGALURU - SUCURSALA BUCURESTI",
+    "location": [
+      "Bucuresti sectorul 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:00:02.439Z",
+    "status": "scraped",
+    "tags": [
+      "Elaborarea de activități educative",
+      "Facilitarea învățării autoreglate"
+    ],
+    "matchPercentage": 82,
+    "reason": "Rol de organizare/concepere/consultanță în formare, la nivel entry sub 3 ani, care folosește direct competențele de elaborare de activități educative și facilitarea învățării."
+  },
+  {
+    "url": "https://multijobs.ro/job/angajam-educatoare/680",
+    "title": "Angajam educatoare",
+    "company": "GRĂDINIŢA LUI DAVID SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:03:28.229Z",
+    "status": "scraped",
+    "tags": [
+      "Elaborarea de activități educative",
+      "Empatie și toleranță"
+    ],
+    "matchPercentage": 78,
+    "reason": "Post de educatoare la grădiniță, în domeniul educației, potrivit ca nivel de intrare pentru absolvenți cu practică pedagogică."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
+    "title": "Grădinița IQ-EST angajează educatoare!",
+    "company": "IQ MED BROKER DE ASIGURARE SRL",
+    "location": [
+      "Strada Mariuca 40",
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:32.991Z",
+    "status": "scraped",
+    "tags": [
+      "Elaborarea de activități educative",
+      "Comunicarea cu adolescenții"
+    ],
+    "matchPercentage": 78,
+    "reason": "Post de educatoare în învățământul preșcolar, domeniu educațional direct, accesibil absolvenților cu calificare pedagogică."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3392679",
+    "title": "EDUCATOARE",
+    "company": "KRONSTEF SRL",
+    "location": [
+      "Tulcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:18:52.255Z",
+    "status": "scraped",
+    "tags": [
+      "Elaborarea de activități educative",
+      "Identificarea nevoilor socio-emoționale"
+    ],
+    "matchPercentage": 75,
+    "reason": "Post de educator preșcolar, în domeniul educației, fără experiență necesară, însă necesită calificare didactică specifică pe care absolventul de Psihologie o are doar parțial."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3392530",
+    "title": "EDUCATOARE",
+    "company": "GRĂDINIŢA CU PROGRAM PRELUNGIT ŞI SEMI-INTERNAT PANDA SRL",
+    "location": [
+      "Tulcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:43.762Z",
+    "status": "scraped",
+    "tags": [
+      "Elaborarea de activități educative",
+      "Dezvoltarea rezilienței"
+    ],
+    "matchPercentage": 70,
+    "reason": "Post de educator în educația timpurie, la nivel de intrare, relevant pentru competențele socio-emoționale, dar cu cerință academică didactică specifică."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
+    "title": "Învățător / Educator Montessori",
+    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:25.059Z",
+    "status": "scraped",
+    "tags": [
+      "Elaborarea de activități educative",
+      "Dezvoltarea motivației pentru învățare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Post didactic în educație, dar cere specializare PIPP și experiență de predare la clasă, pe care un student/absolvent proaspăt le are doar parțial (practică școlară)."
   }
 ]
