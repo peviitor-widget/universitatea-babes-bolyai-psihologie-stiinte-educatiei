@@ -1,21 +1,21 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3414232",
-    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRESCOLAR",
-    "company": "GRĂDINIŢA CU PROGRAM PRELUNGIT ŞI SEMI-INTERNAT PANDA SRL",
+    "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
+    "title": "Învățător / Educator Montessori",
+    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
     "location": [
-      "Municipiul timisoara",
+      "Brașov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:20:22.067Z",
+    "date": "2026-10-17T12:09:25.059Z",
     "status": "scraped",
     "tags": [
-      "Activități educative",
-      "Empatie"
+      "activități educative",
+      "învățare autoreglată"
     ],
-    "matchPercentage": 73,
-    "reason": "Profesor preșcolar entry-level cu activități educative și dezvoltare socio-emoțională a copiilor."
+    "matchPercentage": 95,
+    "reason": "Educație Montessori, folosește direct competențe didactice și socio-emoționale."
   },
   {
     "url": "https://multijobs.ro/job/angajam-educatoare/680",
@@ -29,11 +29,11 @@
     "date": "2026-10-17T12:03:28.229Z",
     "status": "scraped",
     "tags": [
-      "Activități educative",
-      "Empatie"
+      "dezvoltare socio-emoțională",
+      "activități educative"
     ],
-    "matchPercentage": 72,
-    "reason": "Rol educațional preșcolar entry-level care implică direct elaborarea de activități educative și dezvoltarea socio-emoțională a copiilor."
+    "matchPercentage": 95,
+    "reason": "Educatoare, utilizează dezvoltare socio-emoțională și facilitarea învățării."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
@@ -48,11 +48,29 @@
     "date": "2026-10-16T13:03:32.991Z",
     "status": "scraped",
     "tags": [
-      "Activități educative",
-      "Empatie"
+      "dezvoltare socio-emoțională",
+      "activități educative"
     ],
-    "matchPercentage": 72,
-    "reason": "Post de educatoare în grădiniță, entry-level, cu sarcini educaționale și de dezvoltare socio-emoțională potrivite competențelor."
+    "matchPercentage": 95,
+    "reason": "Educatoare, domeniu preșcolar direct relevant competențelor."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3414232",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRESCOLAR",
+    "company": "GRĂDINIŢA CU PROGRAM PRELUNGIT ŞI SEMI-INTERNAT PANDA SRL",
+    "location": [
+      "Municipiul timisoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:22.067Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "facilitarea învățării"
+    ],
+    "matchPercentage": 95,
+    "reason": "Învățământ preșcolar, potrivire directă cu competențele de educație"
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3388301",
@@ -66,11 +84,11 @@
     "date": "2026-10-17T12:19:28.875Z",
     "status": "scraped",
     "tags": [
-      "Managementul clasei",
-      "Activități educative"
+      "managementul clasei",
+      "facilitarea învățării"
     ],
-    "matchPercentage": 70,
-    "reason": "Profesor în învățământul primar entry-level, rol educațional direct relevant pentru competențele pedagogice."
+    "matchPercentage": 95,
+    "reason": "Învățământ primar, potrivire directă cu competențele de educație"
   },
   {
     "url": "https://www.jobradar24.ro/anunt/profesor-pentru-invatamantul-prescolar-2kngve",
@@ -84,28 +102,186 @@
     "date": "2026-10-17T12:15:25.039Z",
     "status": "scraped",
     "tags": [
-      "Activități educative",
-      "Comunicare"
+      "managementul clasei",
+      "facilitarea învățării"
     ],
-    "matchPercentage": 68,
-    "reason": "Profesor preșcolar cu activități educative și colaborare cu părinții, relevante, dar cere grad didactic II."
+    "matchPercentage": 95,
+    "reason": "Învățământ preșcolar, potrivire directă cu competențele de educație"
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/consilier-relatii-clienti-cursuri-educationale/99248721",
-    "title": "Consilier Relații Clienți - Cursuri Educaționale",
-    "company": "EURO TRAINING AND EDUCATION CENTER SRL",
+    "url": "https://www.anuntul.ro/anunt-angajare-asistent-a-invatator-B6DvN3",
+    "title": "Asistent/a invatator",
+    "company": "ANUNTUL TOTAL SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:21:05.547Z",
+    "date": "2026-10-17T11:59:20.557Z",
     "status": "scraped",
     "tags": [
-      "identificare nevoi",
+      "activități educative",
+      "comunicare"
+    ],
+    "matchPercentage": 90,
+    "reason": "Asistent învățător, potrivit pentru student/absolvent în educație-psihologie."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
+    "title": "Asistent invatator",
+    "company": "IOANID SRL",
+    "location": [
+      "Strada Nicolae Iorga 21",
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:43.457Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "comunicare"
+    ],
+    "matchPercentage": 90,
+    "reason": "Asistent învățător, domeniu educațional direct relevant."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3413693",
+    "title": "Profesor de limbi straine",
+    "company": "BESMART ENGLISH S.R.L.",
+    "location": [
+      "Candesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:00.565Z",
+    "status": "scraped",
+    "tags": [
+      "facilitarea învățării",
       "comunicare asertivă"
     ],
-    "matchPercentage": 65,
-    "reason": "Domeniu educație/formare, dar activități probabil orientate spre relații clienți."
+    "matchPercentage": 90,
+    "reason": "Predare limbi străine în domeniul educației, nivel entry-level potrivit"
+  },
+  {
+    "url": "https://multijobs.ro/job/profesor-engleza/1570",
+    "title": "Profesor Engleză",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:33.969Z",
+    "status": "scraped",
+    "tags": [
+      "facilitarea învățării",
+      "comunicare asertivă"
+    ],
+    "matchPercentage": 90,
+    "reason": "Predare engleză în domeniul educației, nivel potrivit"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-limba-lngleza",
+    "title": "Profesor Limba Engleza",
+    "company": "ACCES FINANCIAR-CONTABIL SRL",
+    "location": [
+      "Mioveni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:03.251Z",
+    "status": "scraped",
+    "tags": [
+      "facilitarea învățării",
+      "comunicare asertivă"
+    ],
+    "matchPercentage": 90,
+    "reason": "Predare limba engleză în domeniul educației, nivel potrivit"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270180/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-colaborator-biologie",
+    "title": "Profesor colaborator biologie",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "facilitarea învățării",
+      "dezvoltarea motivației pentru învățare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Mediere/formare prin meditații, potrivire directă în educație"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270179/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-de-matematică-debutant",
+    "title": "Profesor de matematică debutant",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "facilitarea învățării",
+      "dezvoltarea motivației pentru învățare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Mediere/formare prin meditații, potrivire directă în educație"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270189/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-de-geografie",
+    "title": "Profesor de geografie",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "facilitarea învățării",
+      "dezvoltarea motivației pentru învățare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Mediere/formare prin meditații, potrivire directă în educație"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270178/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-de-română-debutant",
+    "title": "Profesor de română debutant",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "facilitarea învățării",
+      "dezvoltarea motivației pentru învățare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Mediere/formare prin meditații, potrivire directă în educație"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270175/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-matematica",
+    "title": "Profesor matematica",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "facilitarea învățării",
+      "dezvoltarea motivației pentru învățare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Mediere/formare prin meditații, potrivire directă în educație"
   }
 ]
