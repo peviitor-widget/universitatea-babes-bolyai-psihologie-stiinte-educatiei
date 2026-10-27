@@ -1,5 +1,60 @@
 [
   {
+    "url": "https://multijobs.ro/job/angajam-educatoare/680",
+    "title": "Angajam educatoare",
+    "company": "GRĂDINIŢA LUI DAVID SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:03:28.229Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "dezvoltare socio-emoțională"
+    ],
+    "matchPercentage": 72,
+    "reason": "Post entry-level în educație preșcolară, cu activități educative și dezvoltare socio-emoțională care valorifică direct competențele tale."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
+    "title": "Învățător / Educator Montessori",
+    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:25.059Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "identificarea nevoilor"
+    ],
+    "matchPercentage": 70,
+    "reason": "Rol educațional relevant prin managementul clasei și adaptarea la nevoile copiilor, dar cere specializare PIPP și experiență de predare."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
+    "title": "Grădinița IQ-EST angajează educatoare!",
+    "company": "IQ MED BROKER DE ASIGURARE SRL",
+    "location": [
+      "Strada Mariuca 40",
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:32.991Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "activități educative"
+    ],
+    "matchPercentage": 70,
+    "reason": "Educatoare la grădiniță, nivel de început, cu sarcini de educație și dezvoltare socio-emoțională potrivite profilului tău."
+  },
+  {
     "url": "https://www.anuntul.ro/anunt-angajare-asistent-a-invatator-B6DvN3",
     "title": "Asistent/a invatator",
     "company": "ANUNTUL TOTAL SRL",
@@ -14,8 +69,8 @@
       "managementul clasei",
       "activități educative"
     ],
-    "matchPercentage": 68,
-    "reason": "Post de asistent în învățământ, nivel de intrare, cu activitate educativă directă și sprijin la clasă."
+    "matchPercentage": 62,
+    "reason": "Asistent învățător este rol educațional entry-level, dar anunțul este vag și poate presupune calificare pedagogică specifică."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
@@ -33,98 +88,25 @@
       "managementul clasei",
       "activități educative"
     ],
-    "matchPercentage": 68,
-    "reason": "Post de asistent în învățământ, accesibil la nivel de intrare și relevant pentru competențele educaționale."
+    "matchPercentage": 62,
+    "reason": "Asistent învățător este relevant pentru educație și potrivit începătorilor, deși detaliile despre sarcini lipsesc."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
-    "title": "Învățător / Educator Montessori",
-    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
+    "url": "https://www.jobradar24.ro/anunt/profesor-pentru-invatamantul-prescolar-2kngve",
+    "title": "PROFESOR PENTRU INVATAMANTUL PRESCOLAR",
+    "company": "INSTGAT SRL",
     "location": [
-      "Brașov",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:09:25.059Z",
-    "status": "scraped",
-    "tags": [
-      "managementul clasei",
-      "activități educative"
-    ],
-    "matchPercentage": 65,
-    "reason": "Domeniul educațional se potrivește parțial, dar postul cere specializare PIPP și experiență directă la clasă."
-  },
-  {
-    "url": "https://multijobs.ro/job/angajam-educatoare/680",
-    "title": "Angajam educatoare",
-    "company": "GRĂDINIŢA LUI DAVID SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:03:28.229Z",
-    "status": "scraped",
-    "tags": [
-      "activități educative",
-      "dezvoltare socio-emoțională"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rol educațional preșcolar, entry-level, cu activități educative și dezvoltare socio-emoțională, dar cere specializare preșcolară."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
-    "title": "Grădinița IQ-EST angajează educatoare!",
-    "company": "IQ MED BROKER DE ASIGURARE SRL",
-    "location": [
-      "Strada Mariuca 40",
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:32.991Z",
-    "status": "scraped",
-    "tags": [
-      "activități educative",
-      "dezvoltare socio-emoțională"
-    ],
-    "matchPercentage": 65,
-    "reason": "Post de educatoare în domeniul educației timpurii, potrivit parțial competențelor pedagogice și socio-emoționale."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3414232",
-    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRESCOLAR",
-    "company": "GRĂDINIŢA CU PROGRAM PRELUNGIT ŞI SEMI-INTERNAT PANDA SRL",
-    "location": [
-      "Municipiul timisoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:22.067Z",
-    "status": "scraped",
-    "tags": [
-      "activități educative",
-      "dezvoltare socio-emoțională"
-    ],
-    "matchPercentage": 65,
-    "reason": "Post educațional preșcolar cu experiență sub 3 ani, potrivit parțial competențelor pedagogice."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3388301",
-    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
-    "company": "FUNDATIA PENTRU TINERET",
-    "location": [
-      "Cluj-napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:28.875Z",
+    "date": "2026-10-17T12:15:25.039Z",
     "status": "scraped",
     "tags": [
       "managementul clasei",
       "activități educative"
     ],
     "matchPercentage": 62,
-    "reason": "Rol de profesor pentru învățământ primar, entry-level, cu activitate educativă relevantă parțial."
+    "reason": "Educație preșcolară în domeniul tău, dar cere grad didactic II și specializare preșcolară, deci potrivire parțială."
   }
 ]
