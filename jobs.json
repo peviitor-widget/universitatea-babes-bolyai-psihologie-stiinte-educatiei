@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://multijobs.ro/job/angajam-educatoare/680",
-    "title": "Angajam educatoare",
-    "company": "GRĂDINIŢA LUI DAVID SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:03:28.229Z",
-    "status": "scraped",
-    "tags": [
-      "managementul clasei",
-      "dezvoltare socio-emoțională"
-    ],
-    "matchPercentage": 72,
-    "reason": "Post entry-level în educație preșcolară, cu activități educative și dezvoltare socio-emoțională care valorifică direct competențele tale."
-  },
-  {
     "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
     "title": "Învățător / Educator Montessori",
     "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
@@ -29,11 +11,29 @@
     "date": "2026-10-17T12:09:25.059Z",
     "status": "scraped",
     "tags": [
-      "managementul clasei",
-      "identificarea nevoilor"
+      "elaborare activități",
+      "comunicare"
     ],
-    "matchPercentage": 70,
-    "reason": "Rol educațional relevant prin managementul clasei și adaptarea la nevoile copiilor, dar cere specializare PIPP și experiență de predare."
+    "matchPercentage": 95,
+    "reason": "Rol direct în educație preșcolară/primară prin metoda Montessori"
+  },
+  {
+    "url": "https://multijobs.ro/job/angajam-educatoare/680",
+    "title": "Angajam educatoare",
+    "company": "GRĂDINIŢA LUI DAVID SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:03:28.229Z",
+    "status": "scraped",
+    "tags": [
+      "elaborarea activităților educative",
+      "dezvoltare socio-emoțională"
+    ],
+    "matchPercentage": 95,
+    "reason": "Educatoare în grădiniță - domeniu educațional direct"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
@@ -48,11 +48,65 @@
     "date": "2026-10-16T13:03:32.991Z",
     "status": "scraped",
     "tags": [
-      "managementul clasei",
-      "activități educative"
+      "elaborarea activităților educative",
+      "dezvoltare socio-emoțională"
     ],
-    "matchPercentage": 70,
-    "reason": "Educatoare la grădiniță, nivel de început, cu sarcini de educație și dezvoltare socio-emoțională potrivite profilului tău."
+    "matchPercentage": 95,
+    "reason": "Educatoare în grădiniță - domeniu educațional direct"
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3414232",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRESCOLAR",
+    "company": "GRĂDINIŢA CU PROGRAM PRELUNGIT ŞI SEMI-INTERNAT PANDA SRL",
+    "location": [
+      "Municipiul timisoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:22.067Z",
+    "status": "scraped",
+    "tags": [
+      "elaborarea activităților educative",
+      "dezvoltare socio-emoțională"
+    ],
+    "matchPercentage": 95,
+    "reason": "Profesor învățământ preșcolar - potrivit pentru nivel entry-level"
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3388301",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
+    "company": "FUNDATIA PENTRU TINERET",
+    "location": [
+      "Cluj-napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:28.875Z",
+    "status": "scraped",
+    "tags": [
+      "elaborarea activităților educative",
+      "dezvoltarea motivației"
+    ],
+    "matchPercentage": 95,
+    "reason": "Profesor învățământ primar - potrivit pentru nivel entry-level"
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/profesor-pentru-invatamantul-prescolar-2kngve",
+    "title": "PROFESOR PENTRU INVATAMANTUL PRESCOLAR",
+    "company": "INSTGAT SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:25.039Z",
+    "status": "scraped",
+    "tags": [
+      "elaborarea activităților educative",
+      "dezvoltare socio-emoțională"
+    ],
+    "matchPercentage": 95,
+    "reason": "Profesor pentru învățământ preșcolar - domeniu educațional direct"
   },
   {
     "url": "https://www.anuntul.ro/anunt-angajare-asistent-a-invatator-B6DvN3",
@@ -66,11 +120,11 @@
     "date": "2026-10-17T11:59:20.557Z",
     "status": "scraped",
     "tags": [
-      "managementul clasei",
-      "activități educative"
+      "comunicare",
+      "management clasă"
     ],
-    "matchPercentage": 62,
-    "reason": "Asistent învățător este rol educațional entry-level, dar anunțul este vag și poate presupune calificare pedagogică specifică."
+    "matchPercentage": 90,
+    "reason": "Rol de asistent învățător, utilizând competențe educaționale"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
@@ -85,28 +139,131 @@
     "date": "2026-10-16T13:02:43.457Z",
     "status": "scraped",
     "tags": [
-      "managementul clasei",
-      "activități educative"
+      "comunicare",
+      "management clasă"
     ],
-    "matchPercentage": 62,
-    "reason": "Asistent învățător este relevant pentru educație și potrivit începătorilor, deși detaliile despre sarcini lipsesc."
+    "matchPercentage": 90,
+    "reason": "Rol de asistent învățător, utilizând competențe educaționale"
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/profesor-pentru-invatamantul-prescolar-2kngve",
-    "title": "PROFESOR PENTRU INVATAMANTUL PRESCOLAR",
-    "company": "INSTGAT SRL",
+    "url": "https://multijobs.ro/job/profesor-engleza/1570",
+    "title": "Profesor Engleză",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Timișoara",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:25.039Z",
+    "date": "2026-10-17T12:20:33.969Z",
     "status": "scraped",
     "tags": [
-      "managementul clasei",
-      "activități educative"
+      "comunicare",
+      "elaborarea activităților educative"
     ],
-    "matchPercentage": 62,
-    "reason": "Educație preșcolară în domeniul tău, dar cere grad didactic II și specializare preșcolară, deci potrivire parțială."
+    "matchPercentage": 90,
+    "reason": "Profesor de engleză - domeniu educațional direct"
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-limba-lngleza",
+    "title": "Profesor Limba Engleza",
+    "company": "ACCES FINANCIAR-CONTABIL SRL",
+    "location": [
+      "Mioveni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:16:03.251Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare",
+      "elaborarea activităților educative"
+    ],
+    "matchPercentage": 90,
+    "reason": "Profesor de engleză - domeniu educațional direct"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270180/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-colaborator-biologie",
+    "title": "Profesor colaborator biologie",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "elaborarea activităților educative",
+      "comunicare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Profesor colaborator - meditații/educație, nivel accesibil"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270179/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-de-matematică-debutant",
+    "title": "Profesor de matematică debutant",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "elaborarea activităților educative",
+      "comunicare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Profesor debutant matematică - meditații/educație"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270189/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-de-geografie",
+    "title": "Profesor de geografie",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "elaborarea activităților educative",
+      "comunicare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Profesor geografie - meditații/educație"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270178/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-de-română-debutant",
+    "title": "Profesor de română debutant",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "elaborarea activităților educative",
+      "comunicare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Profesor debutant română - meditații/educație"
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/270175/Centrul-de-Meditatii-si-Dezvoltare-Personala/Profesor-matematica",
+    "title": "Profesor matematica",
+    "company": "CENTRUL DE MEDITATII SI DEZVOLTARE PERSONALA &quot;ALGORITHM&quot; SRL",
+    "location": [
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:10:26.977Z",
+    "status": "scraped",
+    "tags": [
+      "elaborarea activităților educative",
+      "comunicare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Profesor matematică - meditații/educație"
   }
 ]
