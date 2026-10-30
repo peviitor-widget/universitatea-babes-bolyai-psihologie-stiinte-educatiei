@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3414232",
-    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRESCOLAR",
-    "company": "GRĂDINIŢA CU PROGRAM PRELUNGIT ŞI SEMI-INTERNAT PANDA SRL",
-    "location": [
-      "Municipiul timisoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:22.067Z",
-    "status": "scraped",
-    "tags": [
-      "managementul clasei",
-      "dezvoltare socio-emoțională"
-    ],
-    "matchPercentage": 85,
-    "reason": "Post de profesor preșcolar entry-level, cu activități educative și dezvoltare socio-emoțională direct relevante."
-  },
-  {
     "url": "https://multijobs.ro/job/angajam-educatoare/680",
     "title": "Angajam educatoare",
     "company": "GRĂDINIŢA LUI DAVID SRL",
@@ -33,7 +15,7 @@
       "dezvoltare socio-emoțională"
     ],
     "matchPercentage": 80,
-    "reason": "Post de educatoare în învățământ preșcolar, cu activități educative și dezvoltare socio-emoțională la nivel entry-level."
+    "reason": "Post de educatoare în învățământ preșcolar, domeniu educațional direct și nivel entry-level, fără cerințe de experiență."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
@@ -52,7 +34,43 @@
       "dezvoltare socio-emoțională"
     ],
     "matchPercentage": 80,
-    "reason": "Post de educatoare în învățământ preșcolar, cu activități educative și dezvoltare socio-emoțională la nivel entry-level."
+    "reason": "Post de educatoare în învățământ preșcolar, domeniu educațional direct și nivel entry-level, fără cerințe de experiență."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3414232",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRESCOLAR",
+    "company": "GRĂDINIŢA CU PROGRAM PRELUNGIT ŞI SEMI-INTERNAT PANDA SRL",
+    "location": [
+      "Municipiul timisoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:22.067Z",
+    "status": "scraped",
+    "tags": [
+      "managementul clasei",
+      "activități educative"
+    ],
+    "matchPercentage": 80,
+    "reason": "Post de profesor în învățământ preșcolar cu experiență sub 3 ani, potrivit nivelului junior/mid și domeniului educațional."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
+    "title": "Învățător / Educator Montessori",
+    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:25.059Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul clasei",
+      "Activități educative"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol educațional direct, dar cere specializare PIPP și experiență de predare la clasă."
   },
   {
     "url": "https://www.anuntul.ro/anunt-angajare-asistent-a-invatator-B6DvN3",
@@ -67,10 +85,10 @@
     "status": "scraped",
     "tags": [
       "Managementul clasei",
-      "Activități educative"
+      "Ascultare activă"
     ],
-    "matchPercentage": 65,
-    "reason": "Post entry-level de asistent învățător în educație, cu sarcini de sprijin la clasă și activități educative."
+    "matchPercentage": 62,
+    "reason": "Asistent învățător, entry-level în educație, relevant pentru dezvoltarea copiilor."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
@@ -86,9 +104,9 @@
     "status": "scraped",
     "tags": [
       "Managementul clasei",
-      "Activități educative"
+      "Ascultare activă"
     ],
-    "matchPercentage": 65,
-    "reason": "Post entry-level de asistent învățător în educație, relevant pentru competențele tale de management al clasei."
+    "matchPercentage": 62,
+    "reason": "Asistent învățător, rol entry-level educațional potrivit competențelor de clasă."
   }
 ]
