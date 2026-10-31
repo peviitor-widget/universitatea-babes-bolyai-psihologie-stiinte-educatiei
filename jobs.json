@@ -1,76 +1,22 @@
 [
   {
-    "url": "https://multijobs.ro/job/angajam-educatoare/680",
-    "title": "Angajam educatoare",
-    "company": "GRĂDINIŢA LUI DAVID SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
+    "title": "Asistent invatator",
+    "company": "IOANID SRL",
     "location": [
+      "Strada Nicolae Iorga 21",
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:03:28.229Z",
-    "status": "scraped",
-    "tags": [
-      "activități educative",
-      "dezvoltare socio-emoțională"
-    ],
-    "matchPercentage": 80,
-    "reason": "Post de educatoare în învățământ preșcolar, domeniu educațional direct și nivel entry-level, fără cerințe de experiență."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
-    "title": "Grădinița IQ-EST angajează educatoare!",
-    "company": "IQ MED BROKER DE ASIGURARE SRL",
-    "location": [
-      "Strada Mariuca 40",
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:03:32.991Z",
-    "status": "scraped",
-    "tags": [
-      "activități educative",
-      "dezvoltare socio-emoțională"
-    ],
-    "matchPercentage": 80,
-    "reason": "Post de educatoare în învățământ preșcolar, domeniu educațional direct și nivel entry-level, fără cerințe de experiență."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3414232",
-    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRESCOLAR",
-    "company": "GRĂDINIŢA CU PROGRAM PRELUNGIT ŞI SEMI-INTERNAT PANDA SRL",
-    "location": [
-      "Municipiul timisoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:22.067Z",
-    "status": "scraped",
-    "tags": [
-      "managementul clasei",
-      "activități educative"
-    ],
-    "matchPercentage": 80,
-    "reason": "Post de profesor în învățământ preșcolar cu experiență sub 3 ani, potrivit nivelului junior/mid și domeniului educațional."
-  },
-  {
-    "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
-    "title": "Învățător / Educator Montessori",
-    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:09:25.059Z",
+    "date": "2026-10-16T13:02:43.457Z",
     "status": "scraped",
     "tags": [
       "Managementul clasei",
-      "Activități educative"
+      "Elaborarea activităților"
     ],
-    "matchPercentage": 65,
-    "reason": "Rol educațional direct, dar cere specializare PIPP și experiență de predare la clasă."
+    "matchPercentage": 82,
+    "reason": "Post de asistent învățător la o școală privată, potrivit nivelului și competențelor educaționale."
   },
   {
     "url": "https://www.anuntul.ro/anunt-angajare-asistent-a-invatator-B6DvN3",
@@ -85,28 +31,82 @@
     "status": "scraped",
     "tags": [
       "Managementul clasei",
-      "Ascultare activă"
+      "Empatie"
     ],
-    "matchPercentage": 62,
-    "reason": "Asistent învățător, entry-level în educație, relevant pentru dezvoltarea copiilor."
+    "matchPercentage": 80,
+    "reason": "Asistent învățător entry-level, cu activități directe de sprijin educațional și management al clasei."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
-    "title": "Asistent invatator",
-    "company": "IOANID SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3388301",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
+    "company": "FUNDATIA PENTRU TINERET",
     "location": [
-      "Strada Nicolae Iorga 21",
+      "Cluj-napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:28.875Z",
+    "status": "scraped",
+    "tags": [
+      "Managementul clasei",
+      "Activități educative"
+    ],
+    "matchPercentage": 75,
+    "reason": "Învățământ primar, nivel cu experiență redusă, cu activități educative și managementul clasei relevante."
+  },
+  {
+    "url": "https://multijobs.ro/job/angajam-educatoare/680",
+    "title": "Angajam educatoare",
+    "company": "GRĂDINIŢA LUI DAVID SRL",
+    "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-16T13:02:43.457Z",
+    "date": "2026-10-17T12:03:28.229Z",
     "status": "scraped",
     "tags": [
-      "Managementul clasei",
-      "Ascultare activă"
+      "Activități educative",
+      "Empatie"
     ],
-    "matchPercentage": 62,
-    "reason": "Asistent învățător, rol entry-level educațional potrivit competențelor de clasă."
+    "matchPercentage": 68,
+    "reason": "Job în educație preșcolară, cu activități educative și relaționare cu copiii, parțial relevant pentru competențele psiho-educaționale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
+    "title": "Grădinița IQ-EST angajează educatoare!",
+    "company": "IQ MED BROKER DE ASIGURARE SRL",
+    "location": [
+      "Strada Mariuca 40",
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:03:32.991Z",
+    "status": "scraped",
+    "tags": [
+      "Activități educative",
+      "Empatie"
+    ],
+    "matchPercentage": 68,
+    "reason": "Job în educație preșcolară, cu activități educative și relaționare cu copiii, parțial relevant pentru competențele psiho-educaționale."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/consilier-relatii-clienti-cursuri-educationale/99248721",
+    "title": "Consilier Relații Clienți - Cursuri Educaționale",
+    "company": "EURO TRAINING AND EDUCATION CENTER SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:05.547Z",
+    "status": "scraped",
+    "tags": [
+      "comunicare",
+      "nevoi"
+    ],
+    "matchPercentage": 65,
+    "reason": "Client relații pentru cursuri educaționale, domeniu parțial relevant"
   }
 ]
