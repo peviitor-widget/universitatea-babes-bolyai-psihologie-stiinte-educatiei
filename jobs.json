@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:09:25.059Z",
     "status": "scraped",
     "tags": [
-      "activități educative",
+      "activitati educative",
       "managementul clasei"
     ],
-    "matchPercentage": 85,
-    "reason": "Rol educațional direct de învățător/educator Montessori, potrivit pentru absolvent sau student avansat."
+    "matchPercentage": 70,
+    "reason": "Rol de educator/invatator Montessori, direct in domeniul educatiei si potrivit nivelului de inceput."
   },
   {
     "url": "https://www.anuntul.ro/anunt-angajare-asistent-a-invatator-B6DvN3",
@@ -29,11 +29,10 @@
     "date": "2026-10-17T11:59:20.557Z",
     "status": "scraped",
     "tags": [
-      "managementul clasei",
-      "activități educative"
+      "activitati educative"
     ],
-    "matchPercentage": 82,
-    "reason": "Asistent învățător este o poziție entry-level din educație, relevantă pentru formarea ta."
+    "matchPercentage": 62,
+    "reason": "Asistent invatator, rol entry-level in educatie, dar descriere saraca in detalii."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
@@ -48,29 +47,10 @@
     "date": "2026-10-16T13:02:43.457Z",
     "status": "scraped",
     "tags": [
-      "managementul clasei",
-      "activități educative"
+      "activitati educative"
     ],
-    "matchPercentage": 82,
-    "reason": "Asistent învățător este un rol educațional de nivel de intrare, potrivit competențelor tale."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3388301",
-    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
-    "company": "FUNDATIA PENTRU TINERET",
-    "location": [
-      "Cluj-napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:19:28.875Z",
-    "status": "scraped",
-    "tags": [
-      "Managementul clasei",
-      "Motivația învățării"
-    ],
-    "matchPercentage": 78,
-    "reason": "Profesor pentru învățământ primar, nivel entry, valorifică managementul clasei și elaborarea activităților educative."
+    "matchPercentage": 62,
+    "reason": "Asistent invatator, pozitie de inceput in domeniul educatiei, descriere minimala."
   },
   {
     "url": "https://multijobs.ro/job/angajam-educatoare/680",
@@ -84,11 +64,11 @@
     "date": "2026-10-17T12:03:28.229Z",
     "status": "scraped",
     "tags": [
-      "Activități educative",
-      "Managementul clasei"
+      "activități educative",
+      "nevoi socio-emoționale"
     ],
-    "matchPercentage": 76,
-    "reason": "Post de educatoare în învățământ preșcolar, cu activități educative și dezvoltare socio-emoțională, potrivit pentru început de carieră."
+    "matchPercentage": 60,
+    "reason": "Domeniu educațional parțial compatibil — activități educative și dezvoltare socio-emoțională, dar vizează preșcolari și cere calificare specifică de educator preșcolar."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
@@ -103,11 +83,11 @@
     "date": "2026-10-16T13:03:32.991Z",
     "status": "scraped",
     "tags": [
-      "Activități educative",
-      "Managementul clasei"
+      "activități educative",
+      "dezvoltare socio-emoțională"
     ],
-    "matchPercentage": 76,
-    "reason": "Rol de educatoare în grădiniță, cu activități educative și dezvoltare socio-emoțională, la nivel de intrare."
+    "matchPercentage": 60,
+    "reason": "Educatoare în grădiniță privată, domeniu educațional și nivel de intrare, dar grupa de vârstă și calificarea didactică specifică diferă de profilul psihopedagogic."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/profesor-pentru-invatamantul-prescolar-2kngve",
@@ -121,10 +101,10 @@
     "date": "2026-10-17T12:15:25.039Z",
     "status": "scraped",
     "tags": [
-      "Activități educative",
-      "Dezvoltare socio-emoțională"
+      "activități educative",
+      "management clasă"
     ],
-    "matchPercentage": 74,
-    "reason": "Profesor preșcolar, rol educațional de nivel entry, relevant pentru activitățile educative și dezvoltarea socio-emoțională."
+    "matchPercentage": 60,
+    "reason": "Domeniu educațional și nivel de intrare, dar învățământul preșcolar cere calificare specifică și altă grupă de vârstă decât specializarea."
   }
 ]
