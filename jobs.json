@@ -1,56 +1,21 @@
 [
   {
-    "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
-    "title": "Învățător / Educator Montessori",
-    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3388301",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
+    "company": "FUNDATIA PENTRU TINERET",
     "location": [
-      "Brașov",
+      "Cluj-napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:09:25.059Z",
+    "date": "2026-10-17T12:19:28.875Z",
     "status": "scraped",
     "tags": [
-      "activitati educative",
-      "managementul clasei"
+      "managementul clasei",
+      "facilitarea învățării"
     ],
-    "matchPercentage": 70,
-    "reason": "Rol de educator/invatator Montessori, direct in domeniul educatiei si potrivit nivelului de inceput."
-  },
-  {
-    "url": "https://www.anuntul.ro/anunt-angajare-asistent-a-invatator-B6DvN3",
-    "title": "Asistent/a invatator",
-    "company": "ANUNTUL TOTAL SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T11:59:20.557Z",
-    "status": "scraped",
-    "tags": [
-      "activitati educative"
-    ],
-    "matchPercentage": 62,
-    "reason": "Asistent invatator, rol entry-level in educatie, dar descriere saraca in detalii."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
-    "title": "Asistent invatator",
-    "company": "IOANID SRL",
-    "location": [
-      "Strada Nicolae Iorga 21",
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-16T13:02:43.457Z",
-    "status": "scraped",
-    "tags": [
-      "activitati educative"
-    ],
-    "matchPercentage": 62,
-    "reason": "Asistent invatator, pozitie de inceput in domeniul educatiei, descriere minimala."
+    "matchPercentage": 82,
+    "reason": "Post de profesor în învățământul primar, direct relevant pentru educație și potrivit nivelului de experiență sub 3 ani."
   },
   {
     "url": "https://multijobs.ro/job/angajam-educatoare/680",
@@ -65,10 +30,28 @@
     "status": "scraped",
     "tags": [
       "activități educative",
-      "nevoi socio-emoționale"
+      "dezvoltare socio-emoțională"
     ],
-    "matchPercentage": 60,
-    "reason": "Domeniu educațional parțial compatibil — activități educative și dezvoltare socio-emoțională, dar vizează preșcolari și cere calificare specifică de educator preșcolar."
+    "matchPercentage": 78,
+    "reason": "Post de educatoare în domeniul educației preșcolare, potrivit nivelului de început și competențelor de elaborare a activităților educative și dezvoltare socio-emoțională."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/profesor-pentru-invatamantul-prescolar-2kngve",
+    "title": "PROFESOR PENTRU INVATAMANTUL PRESCOLAR",
+    "company": "INSTGAT SRL",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:25.039Z",
+    "status": "scraped",
+    "tags": [
+      "activități educative",
+      "dezvoltare socio-emoțională"
+    ],
+    "matchPercentage": 78,
+    "reason": "Post de profesor pentru învățământ preșcolar, relevant pentru domeniul educației timpurii și dezvoltării copilului."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/gradinita-iq-est-angajeaza-educatoare-1",
@@ -86,25 +69,62 @@
       "activități educative",
       "dezvoltare socio-emoțională"
     ],
-    "matchPercentage": 60,
-    "reason": "Educatoare în grădiniță privată, domeniu educațional și nivel de intrare, dar grupa de vârstă și calificarea didactică specifică diferă de profilul psihopedagogic."
+    "matchPercentage": 76,
+    "reason": "Post de educatoare în grădiniță, relevant pentru domeniul educației timpurii și competențele de facilitare a dezvoltării copiilor."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/profesor-pentru-invatamantul-prescolar-2kngve",
-    "title": "PROFESOR PENTRU INVATAMANTUL PRESCOLAR",
-    "company": "INSTGAT SRL",
+    "url": "https://www.anuntul.ro/anunt-angajare-asistent-a-invatator-B6DvN3",
+    "title": "Asistent/a invatator",
+    "company": "ANUNTUL TOTAL SRL",
     "location": [
-      "Timișoara",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:25.039Z",
+    "date": "2026-10-17T11:59:20.557Z",
     "status": "scraped",
     "tags": [
-      "activități educative",
-      "management clasă"
+      "Activități educative",
+      "Managementul clasei"
     ],
-    "matchPercentage": 60,
-    "reason": "Domeniu educațional și nivel de intrare, dar învățământul preșcolar cere calificare specifică și altă grupă de vârstă decât specializarea."
+    "matchPercentage": 72,
+    "reason": "Asistent învățător, rol educațional direct la nivel de început."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-invatator",
+    "title": "Asistent invatator",
+    "company": "IOANID SRL",
+    "location": [
+      "Strada Nicolae Iorga 21",
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-16T13:02:43.457Z",
+    "status": "scraped",
+    "tags": [
+      "Activități educative",
+      "Managementul clasei"
+    ],
+    "matchPercentage": 70,
+    "reason": "Asistent învățător în educație, potrivit competențelor pedagogice și nivelului entry-level."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/invatator-educator-montessori-vdq8dj",
+    "title": "Învățător / Educator Montessori",
+    "company": "SCOALA DE SOFERI AUTO PRIMA SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:25.059Z",
+    "status": "scraped",
+    "tags": [
+      "Activități educative",
+      "Managementul clasei"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rol de educator/învățător în domeniul educației, potrivit ca nivel entry-level, deși anunțul e generic."
   }
 ]
