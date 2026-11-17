@@ -1,1 +1,254 @@
-[]
+[
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3438848",
+    "title": "CONSILIER SCOLAR",
+    "company": "COMUNA TRITENII DE JOS",
+    "location": [
+      "TRITENII DE JOS",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "Ascultare activă",
+      "Nevoi socio-emoționale"
+    ],
+    "matchPercentage": 95,
+    "reason": "Consilier școlar cu experiență sub 3 ani, exact în domeniul consilierii școlare și al identificării nevoilor socio-emoționale."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446986",
+    "title": "PEDAGOG SCOLAR",
+    "company": "OLGA GUDYNN INTERNATIONAL SCHOOL SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:56:12Z",
+    "status": "verified",
+    "tags": [
+      "Nevoi socio-emoționale",
+      "Managementul clasei"
+    ],
+    "matchPercentage": 90,
+    "reason": "Pedagog școlar fără experiență, cu sarcini de suport socio-emoțional și prevenire a comportamentelor disruptive."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/educatoare-gradinita-privata/99253498",
+    "title": "Educatoare gradinita privata",
+    "company": "INDUSTRIES YIELD SRL",
+    "location": [
+      "Bacau",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:35:26Z",
+    "status": "tested",
+    "tags": [
+      "Activități educative",
+      "Empatie"
+    ],
+    "matchPercentage": 88,
+    "reason": "Educatoare la grădiniță, nivel entry-level, cu activități educative și sprijinirea dezvoltării emoționale și sociale a copiilor."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3443448",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL LICEAL, POSTLICEAL",
+    "company": "FUNDATIA MATEAS",
+    "location": [
+      "ORAS VOLUNTARI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "Comunicare adolescenți",
+      "Managementul clasei"
+    ],
+    "matchPercentage": 88,
+    "reason": "Profesor de liceu fără experiență, unde comunicarea cu adolescenții și managementul clasei sunt esențiale."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446982",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL LICEAL, POSTLICEAL",
+    "company": "OLGA GUDYNN INTERNATIONAL SCHOOL SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:56:12Z",
+    "status": "verified",
+    "tags": [
+      "Comunicare adolescenți",
+      "Managementul clasei"
+    ],
+    "matchPercentage": 88,
+    "reason": "Profesor de liceu la nivel entry-level, cu aplicare directă a competențelor de comunicare și facilitare a învățării."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3388301",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
+    "company": "FUNDATIA ROMANA PENTRU COPII COMUNITATE SI FAMILIE-FRCCF",
+    "location": [
+      "CLUJ-NAPOCA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "Managementul clasei",
+      "Activități educative"
+    ],
+    "matchPercentage": 87,
+    "reason": "Profesor în învățământul primar, cu experiență sub 3 ani, în domeniul educației și al dezvoltării copilului."
+  },
+  {
+    "url": "https://multijobs.ro/job/terapeut-educator-entry-level-fara-experienta/5446",
+    "title": "Terapeut-educator (entry-level, fără experiență)",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:56:56Z",
+    "status": "tested",
+    "tags": [
+      "Ascultare activă",
+      "Empatie"
+    ],
+    "matchPercentage": 85,
+    "reason": "Poziție de terapeut-educator entry-level, fără experiență, care folosește direct ascultarea activă, empatia și identificarea nevoilor socio-emoționale."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362289",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
+    "company": "LUMINA INSTITUTII DE INVATAMANT SA",
+    "location": [
+      "BUCURESTI SECTORUL 3",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "Managementul clasei",
+      "Activități educative"
+    ],
+    "matchPercentage": 85,
+    "reason": "Profesor în învățământul primar la nivel entry-level, cu aplicare directă a competențelor psihopedagogice."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362259",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL GIMNAZIAL",
+    "company": "LUMINA INSTITUTII DE INVATAMANT SA",
+    "location": [
+      "BUCURESTI SECTORUL 3",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "Managementul clasei",
+      "Motivație învățare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Profesor gimnazial la început de carieră, în domeniul educației, cu sarcini de facilitare a învățării."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3443454",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL GIMNAZIAL",
+    "company": "FUNDATIA MATEAS",
+    "location": [
+      "ORAS VOLUNTARI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "Managementul clasei",
+      "Motivație învățare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Profesor gimnazial fără experiență, cu sarcini didactice ce folosesc competențele de specialitate."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446980",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
+    "company": "OLGA GUDYNN INTERNATIONAL SCHOOL SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:56:12Z",
+    "status": "verified",
+    "tags": [
+      "Managementul clasei",
+      "Activități educative"
+    ],
+    "matchPercentage": 85,
+    "reason": "Profesor în învățământul primar, fără experiență, într-un mediu școlar ce permite aplicarea competențelor psihopedagogice."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3447083",
+    "title": "EDUCATOARE",
+    "company": "GPP MARIA CLARA KINDERGARTEN",
+    "location": [
+      "SIBIU",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:56:12Z",
+    "status": "verified",
+    "tags": [
+      "Activități educative",
+      "Dezvoltare socio-emoțională"
+    ],
+    "matchPercentage": 82,
+    "reason": "Poziție de educatoare fără experiență, în domeniul educației, potrivită ca nivel și specialitate."
+  },
+  {
+    "url": "https://multijobs.ro/job/profesor-de-biologie/5283",
+    "title": "Profesor de biologie",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Voluntari",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:01:43Z",
+    "status": "tested",
+    "tags": [
+      "Managementul clasei",
+      "Activități educative"
+    ],
+    "matchPercentage": 68,
+    "reason": "Domeniul educațional se potrivește parțial, dar predarea biologiei cere pregătire de specialitate, iar nivelul nu este precizat."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3413693",
+    "title": "Profesor de limbi straine",
+    "company": "BESMART ENGLISH S.R.L.",
+    "location": [
+      "CANDESTI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "Managementul clasei",
+      "Activități educative"
+    ],
+    "matchPercentage": 66,
+    "reason": "Predarea limbilor străine aparține educației, dar cere competențe lingvistice, deci potrivirea este doar parțială."
+  }
+]
