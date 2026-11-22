@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446986",
+    "title": "PEDAGOG SCOLAR",
+    "company": "OLGA GUDYNN INTERNATIONAL SCHOOL SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:56:12Z",
+    "status": "verified",
+    "tags": [
+      "Ascultare activă",
+      "Nevoi socio-emoționale"
+    ],
+    "matchPercentage": 92,
+    "reason": "Pedagog școlar cu 0 ani experiență, rol de consiliere care folosește ascultarea activă și identificarea nevoilor socio-emoționale."
+  },
+  {
     "url": "https://multijobs.ro/job/angajam-animator-socio-educativ/1919",
     "title": "Angajam Animator Socio-Educativ",
     "company": "JURMY CONS FAYER S.R.L.",
@@ -11,29 +29,83 @@
     "date": "2026-11-17T14:21:58Z",
     "status": "tested",
     "tags": [
-      "empatie",
+      "nevoi socio-emoționale",
       "conectare socială"
     ],
     "matchPercentage": 90,
-    "reason": "Animatorul socio-educativ aplică direct competențe de dezvoltare socio-emoțională, empatie și conectare socială, la nivel de început de carieră."
+    "reason": "Animatorul socio-educativ lucrează direct pe identificarea nevoilor socio-emoționale și promovarea conectării sociale, la nivel de început de carieră."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/educatoare-gradinita-privata/99253498",
-    "title": "Educatoare gradinita privata",
-    "company": "INDUSTRIES YIELD SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362259",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL GIMNAZIAL",
+    "company": "LUMINA INSTITUTII DE INVATAMANT SA",
     "location": [
-      "Bacau",
+      "BUCURESTI SECTORUL 3",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:35:26Z",
-    "status": "tested",
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
     "tags": [
-      "Activități educative",
-      "Dezvoltare emoțională"
+      "Comunicare adolescenți",
+      "Managementul clasei"
+    ],
+    "matchPercentage": 88,
+    "reason": "Profesor în învățământul gimnazial la început de carieră, potrivit direct cu comunicarea cu adolescenții și managementul clasei."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362242",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL LICEAL, POSTLICEAL",
+    "company": "LUMINA INSTITUTII DE INVATAMANT SA",
+    "location": [
+      "BUCURESTI SECTORUL 3",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "Comunicare adolescenți",
+      "Managementul clasei"
+    ],
+    "matchPercentage": 88,
+    "reason": "Profesor în învățământul liceal/postliceal cu sub 3 ani experiență, domeniu care valorifică direct comunicarea cu adolescenții."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446980",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
+    "company": "OLGA GUDYNN INTERNATIONAL SCHOOL SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:56:12Z",
+    "status": "verified",
+    "tags": [
+      "Managementul clasei",
+      "Activități educative"
+    ],
+    "matchPercentage": 86,
+    "reason": "Profesor în învățământul primar fără experiență, ideal pentru absolvent care folosește managementul clasei și elaborarea de activități educative."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362289",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL PRIMAR",
+    "company": "LUMINA INSTITUTII DE INVATAMANT SA",
+    "location": [
+      "BUCURESTI SECTORUL 3",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "Managementul clasei",
+      "Activități educative"
     ],
     "matchPercentage": 85,
-    "reason": "Organizarea de activități educative, sprijinirea dezvoltării emoționale și sociale și colaborarea cu părinții folosesc direct competențele mele, iar experiența este doar un avantaj."
+    "reason": "Profesor în învățământul primar cu sub 3 ani experiență, rol care aplică direct managementul clasei și activitățile educative."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3439585",
@@ -48,27 +120,9 @@
     "status": "verified",
     "tags": [
       "activități educative",
-      "motivație învățare"
+      "învățare autoreglată"
     ],
     "matchPercentage": 85,
-    "reason": "Rolul de organizator/conceptor de formare se încadrează direct în educația și formarea profesională, cu experiență sub 3 ani, potrivit nivelului junior/mid."
-  },
-  {
-    "url": "https://multijobs.ro/job/educatoare/6373",
-    "title": "EDUCATOARE",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Targu Jiu",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:56:42Z",
-    "status": "tested",
-    "tags": [
-      "Activități educative",
-      "Empatie"
-    ],
-    "matchPercentage": 70,
-    "reason": "Titlul de educatoare indică domeniul educației, dar anunțul nu precizează responsabilitățile sau nivelul de experiență."
+    "reason": "Organizarea, conceperea și consultanța în formare folosesc direct competențele de elaborare a activităților educative, iar nivelul cere sub 3 ani experiență."
   }
 ]
