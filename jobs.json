@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362608",
+    "title": "PSIHOLOG ÎN SPECIALITATEA PSIHOLOGIE EDUCATIONALA, CONSILIERE SCOLARA SI VOCATIONALA",
+    "company": "ASOCIAȚIA VOCEA INTERIOARĂ",
+    "location": [
+      "BUCURESTI SECTORUL 6",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "Ascultare activă",
+      "Nevoi socio-emoționale"
+    ],
+    "matchPercentage": 95,
+    "reason": "Poziția vizează exact consilierea școlară și orientarea vocațională, la nivel entry-level, cu studii de master și zero ani experiență."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3446986",
     "title": "PEDAGOG SCOLAR",
     "company": "OLGA GUDYNN INTERNATIONAL SCHOOL SRL",
@@ -11,11 +29,11 @@
     "date": "2026-11-16T12:56:12Z",
     "status": "verified",
     "tags": [
-      "Ascultare activă",
-      "Nevoi socio-emoționale"
+      "ascultare activă",
+      "empatie"
     ],
     "matchPercentage": 92,
-    "reason": "Pedagog școlar cu 0 ani experiență, rol de consiliere care folosește ascultarea activă și identificarea nevoilor socio-emoționale."
+    "reason": "Pedagogul școlar se ocupă exact de dezvoltarea socio-emoțională și sprijinirea elevilor, nucleul specializării, fără experiență cerută."
   },
   {
     "url": "https://multijobs.ro/job/angajam-animator-socio-educativ/1919",
@@ -29,47 +47,11 @@
     "date": "2026-11-17T14:21:58Z",
     "status": "tested",
     "tags": [
-      "nevoi socio-emoționale",
+      "activități educative",
       "conectare socială"
     ],
-    "matchPercentage": 90,
-    "reason": "Animatorul socio-educativ lucrează direct pe identificarea nevoilor socio-emoționale și promovarea conectării sociale, la nivel de început de carieră."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362259",
-    "title": "PROFESOR ÎN ÎNVATAMÂNTUL GIMNAZIAL",
-    "company": "LUMINA INSTITUTII DE INVATAMANT SA",
-    "location": [
-      "BUCURESTI SECTORUL 3",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "Comunicare adolescenți",
-      "Managementul clasei"
-    ],
-    "matchPercentage": 88,
-    "reason": "Profesor în învățământul gimnazial la început de carieră, potrivit direct cu comunicarea cu adolescenții și managementul clasei."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362242",
-    "title": "PROFESOR ÎN ÎNVATAMÂNTUL LICEAL, POSTLICEAL",
-    "company": "LUMINA INSTITUTII DE INVATAMANT SA",
-    "location": [
-      "BUCURESTI SECTORUL 3",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "Comunicare adolescenți",
-      "Managementul clasei"
-    ],
-    "matchPercentage": 88,
-    "reason": "Profesor în învățământul liceal/postliceal cu sub 3 ani experiență, domeniu care valorifică direct comunicarea cu adolescenții."
+    "matchPercentage": 85,
+    "reason": "Rolul de animator socio-educativ folosește direct competențe de elaborare a activităților educative și promovare a conectării sociale, la nivel entry-level."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3446980",
@@ -83,11 +65,11 @@
     "date": "2026-11-16T12:56:12Z",
     "status": "verified",
     "tags": [
-      "Managementul clasei",
-      "Activități educative"
+      "managementul clasei",
+      "dezvoltarea motivației"
     ],
-    "matchPercentage": 86,
-    "reason": "Profesor în învățământul primar fără experiență, ideal pentru absolvent care folosește managementul clasei și elaborarea de activități educative."
+    "matchPercentage": 82,
+    "reason": "Profesor pentru învățământul primar fără experiență cerută, rol în care competențele pedagogice se aplică direct."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3362289",
@@ -101,28 +83,64 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "verified",
     "tags": [
-      "Managementul clasei",
-      "Activități educative"
+      "managementul clasei",
+      "dezvoltarea motivației"
     ],
-    "matchPercentage": 85,
-    "reason": "Profesor în învățământul primar cu sub 3 ani experiență, rol care aplică direct managementul clasei și activitățile educative."
+    "matchPercentage": 80,
+    "reason": "Predarea la ciclul primar valorifică direct competențele pedagogice, iar cerința de sub 3 ani experiență se potrivește unui absolvent."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3439585",
-    "title": "ORGANIZATOR/CONCEPTOR/CONSULTANT FORMARE",
-    "company": "INFOSYS BPM LIMITED - BENGALURU - SUCURSALA BUCURESTI",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3446982",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL LICEAL, POSTLICEAL",
+    "company": "OLGA GUDYNN INTERNATIONAL SCHOOL SRL",
     "location": [
       "BUCURESTI SECTORUL 1",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
+    "date": "2026-11-16T12:56:12Z",
     "status": "verified",
     "tags": [
-      "activități educative",
-      "învățare autoreglată"
+      "managementul clasei",
+      "comunicare asertivă"
     ],
-    "matchPercentage": 85,
-    "reason": "Organizarea, conceperea și consultanța în formare folosesc direct competențele de elaborare a activităților educative, iar nivelul cere sub 3 ani experiență."
+    "matchPercentage": 70,
+    "reason": "Post didactic liceal fără experiență cerută, cu potrivire parțială deoarece disciplina de predare nu este specificată."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362259",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL GIMNAZIAL",
+    "company": "LUMINA INSTITUTII DE INVATAMANT SA",
+    "location": [
+      "BUCURESTI SECTORUL 3",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "managementul clasei",
+      "comunicare asertivă"
+    ],
+    "matchPercentage": 68,
+    "reason": "Predarea la gimnaziu folosește managementul clasei și lucrul cu adolescenții, dar disciplina de specialitate nu este precizată, deci potrivirea e parțială."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362242",
+    "title": "PROFESOR ÎN ÎNVATAMÂNTUL LICEAL, POSTLICEAL",
+    "company": "LUMINA INSTITUTII DE INVATAMANT SA",
+    "location": [
+      "BUCURESTI SECTORUL 3",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "managementul clasei",
+      "dezvoltarea motivației"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol didactic la liceu accesibil ca nivel de experiență, însă potrivirea depinde de disciplina predată, neprecizată în anunț."
   }
 ]
